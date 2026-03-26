@@ -58,4 +58,4 @@ Open `index.html` directly in any browser — no server needed. Progress is save
 
 ## Companion app
 
-Pairs with the [Kannada Alphabet Trainer](https://github.com/AGPATHAK/alphabet) which covers base letter recognition before moving on to matras.
+Pairs with the [Kannada Alphabet Trainer(https://github.com/AGPATHAK/alphabet)](https://github.com/AGPATHAK/Kannada_alphabet) which covers base letter recognition before moving on to matras.
