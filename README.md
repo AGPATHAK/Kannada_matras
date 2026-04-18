@@ -4,7 +4,7 @@ A browser-based PWA for practicing Kannada kagunita — consonant + vowel matra 
 
 ## Live app
 
-[https://agpathak.github.io/Kannada_matra/](https://agpathak.github.io/Kannada_matra/)
+[[https://agpathak.github.io/Kannada_matra/](https://agpathak.github.io/Kannada_matra/)](https://agpathak.github.io/Kannada_matras/)
 
 ## What it covers
 
